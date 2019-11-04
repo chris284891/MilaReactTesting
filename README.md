@@ -32,7 +32,7 @@ Uploading a photo credits you one Gold Star that can be given to the user who gi
 - Google Fonts
 - Font Awesome
 - HTML 5
-- CSS 6
+- CSS 3
 - Firebase
 - Babel
 - CogoToast
