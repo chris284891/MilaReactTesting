@@ -2,7 +2,7 @@
 
 ### Deployed Link
 
-http://milacaptions.herokuapp.com/user
+http://milacaptions.herokuapp.com/
 
 ## What is MILA?
 
